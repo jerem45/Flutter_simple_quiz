@@ -45,3 +45,13 @@ lib/
  └─ models/
       └─ question.dart # Modèle de données pour une question
 
+## 📸 Captures d'écran
+
+### Accueil
+![Accueil](assets/screenshots/home.png)
+
+### Question
+![Question](assets/screenshots/question.png)
+
+### Résultat
+![Résultat](assets/screenshots/result.png)
