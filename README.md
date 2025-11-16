@@ -34,18 +34,6 @@ L’objectif principal du projet est pédagogique : apprendre et pratiquer Flutt
 - Gestion d’état avec `setState`
 
 ---
-
-## 🧱 Architecture simple du projet
-
-```text
-lib/
- ├─ main.dart          # Point d'entrée de l'application
- ├─ quiz_screen.dart   # Écran principal du quiz
- ├─ result_screen.dart # Écran de résultat
- └─ models/
-      └─ question.dart # Modèle de données pour une question
-
----
 ## 📸 Captures d'écran
 
 ### Accueil
@@ -56,3 +44,16 @@ lib/
 
 ### Résultat
 ![Résultat](assets/screenshots/result.png)
+
+---
+## 🧱 Architecture simple du projet
+
+```text
+lib/
+ ├─ main.dart          # Point d'entrée de l'application
+ ├─ quiz_screen.dart   # Écran principal du quiz
+ ├─ result_screen.dart # Écran de résultat
+ └─ models/
+      └─ question.dart # Modèle de données pour une question
+
+
