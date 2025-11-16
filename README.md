@@ -45,6 +45,7 @@ lib/
  └─ models/
       └─ question.dart # Modèle de données pour une question
 
+---
 ## 📸 Captures d'écran
 
 ### Accueil
